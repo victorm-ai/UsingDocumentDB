@@ -1,0 +1,11 @@
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\DocumentDB.Spatial.Sql.dll
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\DocumentDBProject.dll.config
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\DocumentDBProject.dll
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\DocumentDBProject.pdb
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\Microsoft.Azure.Documents.Client.dll
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\Newtonsoft.Json.dll
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\Microsoft.Azure.Documents.Client.xml
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\bin\Newtonsoft.Json.xml
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\obj\Debug\DocumentDBProject.dll
+D:\Dropbox\My Hard Disk\MVP\Recursos de Aprendizaje\DocumentDB\DemoDocumentDB\DemoDocumentDB_GitHub2\DocumentDBProject\DocumentDBProject\obj\Debug\DocumentDBProject.pdb
