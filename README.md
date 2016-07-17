@@ -28,4 +28,4 @@ This project works good, but if you want to create other project using the featu
 * Microsoft.Azure.DocumentDB
 * Newtonsoft.Json
 
-Also is necesary to have access with a microsoft azure account for create an Azure DocumentDB Service.
+Also is necesary to have access with a Microsoft azure account for create an Azure DocumentDB service.
