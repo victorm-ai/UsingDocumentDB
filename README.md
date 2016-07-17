@@ -1,4 +1,4 @@
-# Overview - UsingDocumentDB
+# Overview - Using DocumentDB
 This code will help you to understand how you can make transactions (typical CRUD) in Azure DocumentDB.
 
 # About the project
